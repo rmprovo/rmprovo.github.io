@@ -30,9 +30,9 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github",   url: "https://github.com/rmprovo" },
-    { name: "x",        url: "https://x.com/username" },
+    { name: "x",        url: "https://x.com/rmprovo" },
     { name: "linkedin", url: "https://www.linkedin.com/in/richard-provo-2536b3202/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "mail",     url: "mailto:rmprovo@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
