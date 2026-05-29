@@ -9,7 +9,7 @@ export default defineAstroPaperConfig({
     profile: "https://github.com/rmprovo",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "America/Hawaii_Standard_Time",
+    timezone: "Pacific/Honolulu",
     dir: "ltr",
   },
   posts: {
