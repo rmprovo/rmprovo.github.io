@@ -3,13 +3,13 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://rmprovo.com",
-    title: "To Blog",
-    description: "Notes on offensive security, kernel internals, and exploit research.",
+    title: "The Blog",
+    description: "Notes on Offensive Security",
     author: "Richard Provo",
-    profile: "https://rmprovo.com",
+    profile: "https://github.com/rmprovo",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "HST",
+    timezone: "America/Hawaii_Standard_Time",
     dir: "ltr",
   },
   posts: {
@@ -29,9 +29,9 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/satnaing/astro-paper" },
+    { name: "github",   url: "https://github.com/rmprovo" },
     { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/richard-provo-2536b3202/" },
     { name: "mail",     url: "mailto:yourmail@gmail.com" },
   ],
   shareLinks: [
