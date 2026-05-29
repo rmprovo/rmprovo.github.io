@@ -3,7 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://rmprovo.com",
-    title: "AstroPaper",
+    title: "To Blog",
     description: "Notes on offensive security, kernel internals, and exploit research.",
     author: "Richard Provo",
     profile: "https://rmprovo.com",
